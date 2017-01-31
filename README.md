@@ -1,4 +1,4 @@
-# Visual and non-visual image tweets
+# Visual and non-visual image tweet dataset
 
 We released the 4,811 Weibo image tweets with human annotated image-text relationship (i.e., visual/non-visual) used in the following paper:
 
