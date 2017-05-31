@@ -7,7 +7,7 @@ Tao Chen, Dongyuan Lu, Min-Yen Kan and Peng Cui (2013). [Understanding and Class
 **Please cite our MM'13 paper if you use this dataset. Thanks!**
 
 
-* [Download (132K)] (image_tweets.txt)
+* [Download (132K)](image_tweets.txt)
 
 In the corpus, each instance contains a tweet id and its image-text relationship (visual/non-visual).
 
